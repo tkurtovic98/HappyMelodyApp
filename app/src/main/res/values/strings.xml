@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Happy Melody App</string>
+    <string name="skola_stranih_jezika_tekst">Happy Melody škola stranih jezika</string>
+    <string name="ucenik_ime">Ime</string>
+    <string name="ucenik_prezime">Prezime</string>
+    <string name="ucenik_aktivnost">Aktivnost</string>
+    <string name="ucenik_rata">Rata</string>
+    <string name="dodaj_ucenika_tekst">Dodaj Učenika</string>
+    <string name="dodaj_Ucenika_gumb">Dodaj Učenika</string>
+    <string name="gracani">Gračani</string>
+    <string name="markusevac">Markuševac</string>
+    <string name="MIOC">MIOC</string>
+    <string name="Srebrnjak">Srebrnjak</string>
+</resources>
